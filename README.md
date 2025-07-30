@@ -1,7 +1,11 @@
 # cybersecurity-portfolio
 A portfolio for showcasing my progress and achievements in cybersecurity.
 # About Me
+
 Hometown: Round Lake, IL, United States of America
+
 Prior IT Experience: I worked as an Associate Qualified Security Assessor for two years in the PCI DSS space and enjoyed auditing IT infrastructures, netowrks, and payment systems. I also just completed an eight-week vocational Data Center Technician program. I learned Cisco Networking Fundamentals, ServiceNow, AI skills, data center operations, and structured cabling.
+
 Career Plans: After learning all four modules in this training program and earning the two certifications, I will be able to apply for government contractor or federal government roles. (The government requires Security + as a baseline for anyone who is touching their computer systems.) There are positions that post "willing to sponsor" a top secret clearance, which will allow me to gain a clearance and earn top dollar overseas or here in the States. I chose overseas because I enjoyed living in Europe on the Army base with my former husband. It will also give me a chance to explore the world we live in, the bigger salary will help my two teenagers through college, and will allow me to give back to my community. I plan on searching for Cybersecurity Analyst roles or similar positions. My ultimate goal is to become a Cyber Defense Forensics Analyst or Cyber Defense Incident Responder and help defend our nation technologically.
+
 Proud Project/Task: I am proud of the Capstone project my team and I completed for our Data Center program this summer. We were tasked with designing a compact data center rack solution for a mid-sized e-commerce that was reliable and scalable. We had a team of five students and we needed to coordinate virtually, with limited classtime. This had to have a fully functional run with structured cabling, functional switch, router, server, and internet network. We need to make sure our networks were configuered properly and security was implemented. We had to document all problem-solving and troubleshooting. I am proud because we all came through it with a 98% grade, proving our technical proficiency. It was a proud kind of day for all of us!
